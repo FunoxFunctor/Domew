@@ -6,6 +6,7 @@
 
 **CHOSES FAÎTES**
 ```
+- La scrollbar a été affinée
 - Ajout d'ami
 - Acceptation de demande
 - Retirer l'ami
